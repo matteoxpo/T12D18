@@ -25,7 +25,7 @@ The russian version of the task can be found in the repository.
 7. [Chapter VII](#chapter-vii)
 
 
-## Chapter I
+# Chapter I
 
 ## Level 3. Room 4.
 
@@ -63,7 +63,7 @@ You come closer to the workstation and see an open report in the command termina
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## Quest 1. Print Module.
 
@@ -93,7 +93,7 @@ After more studying, you realize that the core of the system works using callbac
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## List 1.
 
@@ -138,7 +138,7 @@ Whom are you asking after all
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 ## Quest 2. Checking Module.
 
@@ -153,7 +153,7 @@ Based on the signature, the function should apply a callback to each transmitted
 ***LOADING...***
 
 
-## Chapter V
+# Chapter V
 
 ## List 2.
 
@@ -253,7 +253,7 @@ Fig. 2. Binary search tree.
 
 ***LOADING...***
 
-## Chapter VI
+# Chapter VI
 
 ## Quest 3. BST.
 
@@ -319,7 +319,7 @@ For the tests, take sets of input data from the previous test and create screen 
 ***LOADING...***
 
 
-## Chapter VII
+# Chapter VII
 
 \> *Push the solution to the repository*
 

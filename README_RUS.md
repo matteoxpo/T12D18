@@ -24,7 +24,7 @@
 7. [Chapter VII](#chapter-vii)
 
 
-## Chapter I
+# Chapter I
 
 ## Level 3. Room 4.
 
@@ -64,7 +64,7 @@ LOADING Room 4…***
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## Quest 1. Print Module.
 
@@ -94,7 +94,7 @@ LOADING Room 4…***
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## List 1.
 
@@ -139,7 +139,7 @@ LOADING Room 4…***
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 ## Quest 2. Checking Module.
 
@@ -154,7 +154,7 @@ LOADING Room 4…***
 ***LOADING...***
 
 
-## Chapter V
+# Chapter V
 
 ## List 2.
 
@@ -257,7 +257,7 @@ Characteristics:
 ***LOADING...***
 
 
-## Chapter VI
+# Chapter VI
 
 ## Quest 3. BST.
 
@@ -323,7 +323,7 @@ applyf - тоже функция обратного вызова, которой
 ***LOADING...***
 
 
-## Chapter VII
+# Chapter VII
 
 \> *Запушить решение в репозиторий*
 
