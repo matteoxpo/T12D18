@@ -157,6 +157,9 @@ Based on the signature, the function should apply a callback to each transmitted
 
 ## List 2.
 
+> DON'T FORGET! All your programs are tested for the style norm and memory leaks. Start-up instructions
+> the list of tests is also in the `materials` folder
+
         Validating module…
         System segmentation fault…
         Loading module structure seems to be broken

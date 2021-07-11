@@ -158,6 +158,9 @@ LOADING Room 4…***
 
 ## List 2.
 
+> НЕ ЗАБЫВАЙ! Все твои программы тестируются на стилевую норму и утечки памяти. Инструкция по запуску 
+> тестов все также лежит в папке `materials`
+
     Validating module…
     System segmentation fault…
     Loading module structure seems to be broken
