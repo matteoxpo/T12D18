@@ -65,6 +65,8 @@ You come closer to the workstation and see an open report in the command termina
 
 # Chapter II
 
+> **Attention!** All executable files, as before, should be located in the `build` folder of the root directory of the project
+
 ## Quest 1. Print Module.
 
 The report is suddenly interrupted and you see an error message. You study it in more detail and realize that the output module is corrupt (who would have thought!) and needs to be replaced.
