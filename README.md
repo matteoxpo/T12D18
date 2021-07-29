@@ -319,7 +319,7 @@ Function signatures look as follows and must all be implemented in src/bst.c:
 applyf is also a callback to which the node value must be transmitted. This function can, for instance, display the values on the screen. \
 For the tests, take sets of input data from the previous test and create screen output for the trees in three different ways in src/bst_traverse_test.c.
 
-***== Quest 5 received. Supplement the src/bst.c program by implementing tree traversal functions for the binary search tree: bstree_apply_infix, bstree_apply_prefix, bstree_apply_postfix. Using module testing, check the created functions in tests/bst_traverse.c (take sets of input data from the previous test and create screen output for the trees in three different ways). Prepare implementation of the applyf function as a function that outputs the value of the node in the terminal. ==***
+***== Quest 5 received. Supplement the src/bst.c program by implementing tree traversal functions for the binary search tree: bstree_apply_infix, bstree_apply_prefix, bstree_apply_postfix. Using module testing, check the created functions in tests/bst_traverse.c (take sets of input data from the previous test and create screen output for the trees in three different ways). Prepare implementation of the applyf function as a function that outputs the value of the node in the terminal. Stage name: bst_traverse_test, executable file name: Quest_5. ==***
 
 ***LOADING...***
 
