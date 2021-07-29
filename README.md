@@ -1,7 +1,7 @@
 # T12D18
 The russian version of the task can be found in the repository.
 
-![This day will help you get acquainted with callbacks, varargs & tree sctructures.](misc/eng/images/day12_door.png)
+![This_day_will_help_you_get_acquainted_with_callbacks,_varargs_&_tree_structures.](misc/eng/images/day12_door.png)
 
 
 ## Contents
@@ -216,7 +216,7 @@ int 			item;
 
     A binary tree is a tree the nodes of which have no more than two outbound edges.
 
-![Binary tree](misc/images/binaty_tree.png) \
+![Binary_tree](misc/images/binary_tree.png) \
 Fig. 1. Binary tree.
 
     PRESS PAGE DOWN TO CONTINUE

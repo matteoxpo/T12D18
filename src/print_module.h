@@ -5,7 +5,7 @@
 #define Log_prefix "[LOG]"
 
 /*
-    input:  log message, printchar-callback
+    input:  printchar-callback, log message 
     output: void
     result: "Log_prefix HH:MM:SS message"
 */

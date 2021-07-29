@@ -217,7 +217,7 @@ int 			item;
 
     Бинарное дерево - это дерево, в котором узлы имеют не более двух исходящих ребер.
 
-![Binary tree](misc/images/binaty_tree.png) \
+![Binary_tree](misc/images/binary_tree.png) \
 Рис. 1. Бинарное дерево.
 
     PRESS PAGE DOWN TO CONTINUE
@@ -248,7 +248,7 @@ Characteristics:
     чем их родитель. Следовательно, как поиск заданного узла, так и обход по порядку эффективны 
     (логарифмический и линейный соответственно).
 
-![Binary search tree](misc/images/binary_search_tree.png) \
+![Binary_search_tree](misc/images/binary_search_tree.png) \
 Рис. 2. Бинарное дерево поиска.
 
     END OF CURRENT DOCUMENT
