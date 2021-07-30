@@ -166,10 +166,10 @@ Based on the signature, the function should apply a callback to each transmitted
         System segmentation fault…
         Loading module structure seems to be broken
         Checking available documents:
-            1. Linked lists: unavailable
-            2. Queues: unavailable
-            3. Maps: unavailable
-            4. Binary Trees: available
+            1. Linked lists   : unavailable
+            2. Queues         : unavailable
+            3. Maps           : unavailable
+            4. Binary Trees   : available
 
         Select document to open:
         >1

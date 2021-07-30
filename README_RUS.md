@@ -167,10 +167,10 @@ LOADING Room 4…***
     System segmentation fault…
     Loading module structure seems to be broken
     Checking available documents:
-        1. Linked lists: unavailable
-        2. Queues: unavailable
-        3. Maps: unavailable
-        4. Binary Trees: available
+        1. Linked lists   : unavailable
+        2. Queues         : unavailable
+        3. Maps           : unavailable
+        4. Binary Trees   : available
 
     Select document to open:
     >1
