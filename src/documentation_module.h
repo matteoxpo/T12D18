@@ -12,7 +12,7 @@
     input: validation callback, documents count, args with documents names (max 16)
     output: binary mask of documents availability
 */
-short check_available_documentation_module(int (*validate) (char*), int document_count, ...);
+int* check_available_documentation_module(int (*validate) (char*), int document_count, ...);
 
 int validate(char* data);
 

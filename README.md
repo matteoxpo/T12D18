@@ -146,11 +146,11 @@ Whom are you asking after all
 
 According to the documentation, it looks like you need to write a function – an AI module described by the following signature:
 
-`short check_available_documentation_module(int (*validate) (char*), int document_count, ...);`
+`int* check_available_documentation_module(int (*validate) (char*), int document_count, ...);`
 
 Based on the signature, the function should apply a callback to each transmitted parameter.
 
-***== Quest 2 received. Write a check_available_documentation_module function in the src/documentation_module.c file so it can apply a validation function transmitted in the parameters to each document it transmits in the parameters. The program should result in a binary mask of document availability. Modify the src/main_module_entry_point.c file so it implements a human-readable output of document availability using the obtained mask (format: [document_name] : [(un)available]). For the checked components, set the output field size modifier to 15 units. Note that the function takes an arbitrary number of arguments. Build the program using the Makefile. Stage name: documentation_module, executable file name: Quest_2. ==***
+***== Quest 2 received. Write a check_available_documentation_module function in the src/documentation_module.c file so it can apply a validation function transmitted in the parameters to each document it transmits in the parameters. The result of the program operation should be an array of document availability, which is an array of integers (0 - the document is not available, 1 - the document is available). Change the src/main_module_entry_point.c file so that it implements a human-readable output of the availability of documents using the resulting array (format: [document name: (un)available]). For the checked components, set the output field size modifier to 15 units. Note that the function takes an arbitrary number of arguments. Build the program using the Makefile. Stage name: documentation_module, executable file name: Quest_2. ==***
 
 ***LOADING...***
 
@@ -231,14 +231,14 @@ Fig. 1. Binary tree.
     The right subtree of the root only contains nodes with values higher than the root. 
     All subtrees are also binary search trees.
 
-    Characteristics
+Characteristics
 
-    |   | on average | worst-case scenario |
-    | ------ | ------ | ------ |
-    | Storage consumption | O(n)      | O(n)    |
-    | Search         | O(log n)      | O(n)    |
-    | Insert       | O(log n)      | O(n) |
-    | Delete       | O(log n)      | O(n) |
+|   | on average | worst-case scenario |
+| ------ | ------ | ------ |
+| Storage consumption | O(n)      | O(n)    |
+| Search         | O(log n)      | O(n)    |
+| Insert       | O(log n)      | O(n) |
+| Delete       | O(log n)      | O(n) |
 
     A binary search tree is therefore a binary tree in which all nodes are ordered
     so that left child elements are less than their parent and right child elements are bigger 
