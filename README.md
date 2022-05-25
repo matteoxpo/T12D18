@@ -48,10 +48,10 @@ You come closer to the workstation and see an open report in the command termina
 
     I discovered later that many drivers assume that their initialization procedure is always successful 
     and cannot process a violation... 
-    Several years ago, an AI codenamed j00ru was developed to document such cases 
+    Several years ago, an AI codenamed virtual_j00ru was developed to document such cases 
     in a special log, and many of them are still relevant for current OS versions. 
     As a result, those buggy drivers were no longer a problem: 
-    j00ru did a great job, saving me a lot of years. 
+    virtual_j00ru did a great job, saving me a lot of years. 
     I decided that the AI can not only help with fixing problematic drivers, 
     but also help me and many other people with many other things: 
     analyzing the code, finding logical errors,
