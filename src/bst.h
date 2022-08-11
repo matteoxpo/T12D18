@@ -2,11 +2,12 @@
 #define BST_H
 
 struct t_btree {
-  int el;
-  struct t_btree *l;
-  struct t_btree *r;
+  int val;
+  struct t_btree *left;
+  struct t_btree *right;
 };
 
-t_btree *bstree_create_node(int item);
+struct t_btree *bstree_create_node(int item);
+void Print(struct t_btree *t, int space);
 
 #endif
