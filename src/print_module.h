@@ -5,12 +5,12 @@
 #define Log_prefix "[LOG]"
 
 /*
-    input:  printchar-callback, log message 
+    input:  printchar-callback, log message
     output: void
     result: "Log_prefix HH:MM:SS message"
 */
-void print_log(char (*print) (char), char* message);
+void print_log(char (*print)(char), char* message);
 
 char print_char(char ch);
 
-#endif // PRINT_MODULE_H
+#endif  // PRINT_MODULE_H
