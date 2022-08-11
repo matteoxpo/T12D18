@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "documentation_module.h"
+#ifdef QUEST1
 #include "print_module.h"
-
+#elif QUEST2
+#include "documentation_module.h"
+#endif
 int main() {
 #ifdef QUEST1
   char *Module_load_successb = Module_load_success_message;
@@ -14,7 +16,6 @@ int main() {
                                                   Documents);
   doc_output(Documents_count, res, Documents);
   free(res);
-// malloc(15 * sizeof(int))
 #endif
   // availability_mask = check_available_documentation_module(validate,
   // Documents_count, Documents);
